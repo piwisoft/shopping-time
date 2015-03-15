@@ -1,0 +1,1 @@
+This application allows to find all opening and closing for shops and civil services by connecting to an available Internet site. For french people, the site is www.les-horaires.fr.
